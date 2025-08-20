@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU0bDYybHVlZ3c2a2N6eGtnc2x4Yzh0ZjM0aXgzZWZ6NWh4b3dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif" width="420"/>
+</p>  
 <h3 align="center">Aspiring AI Engineer | Data Scientist in the Making</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu-sharma-coder" alt="divyanshu-sharma-coder" /></a> </p>
