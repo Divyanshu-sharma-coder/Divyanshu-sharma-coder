@@ -8,6 +8,9 @@
 
 - 🌱 I’m currently learning Advanced Machine learning, Deep learning, NLP, and Gen-AI **Frameworks are Langchain, Docker , Kubernetes**
 
+![Thinking](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+- 
+
 - 📫 How to reach me **divyanshusharma20062515@gmail.com**
 
 - ⚡ Fun fact **I am Playing chess also and hobbies are cooking**
