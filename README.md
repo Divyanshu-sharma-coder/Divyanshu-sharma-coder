@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **divyanshusharma20062515@gmail.com**
 
-- ⚡ Fun fact **I am Playing chess also and hobbies are cooking**
+- ⚡ Fun fact I code, build ML models, and even design full GUI games — all from just my phone 📱💻
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
