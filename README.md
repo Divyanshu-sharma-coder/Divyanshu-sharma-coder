@@ -1,6 +1,12 @@
+<!--Banner-->
+<p align="center">
+  <img src="./banner.gif" alt="Divyanshu Banner Image" width="60%" />
+</p>
+
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=7B2CBF&height=200&section=header&text=Divyanshu%20Sharma&fontSize=42&fontColor=FFFFFF" width="100%" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=AI+Engineer;Data+Scientist;RAG+Developer;Natural+Language+Processing;Computer+Vision" />
@@ -43,6 +49,11 @@ I am a highly driven by Artificial intelligence and aspiring AI Engineer with a 
 
 ## 🛠️ Tech Stack
 
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-width: 0px; border-color:#000000">
+  <tr style="border: none;">
+    <!-- LEFT SIDE: YOUR EXACT UNCHANGED TECH STACK -->
+    <td width="60%" align="left" valign="top" style="border: none; padding: 0px;">
+
 ### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,r" />
@@ -62,6 +73,16 @@ I am a highly driven by Artificial intelligence and aspiring AI Engineer with a 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,jenkins,git,linux,wordpress,arduino,raspberrypi,vscode,neovim" />
 </p>
+
+  </td>
+    <!-- RIGHT SIDE: YOUR ANIMATION GIF -->
+    <td width="40%" align="right" valign="middle" style="border: none; padding: 0px;">
+      <img src="./Skills_Animation_Dark.gif" alt="skills animation" width="100%" height="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
@@ -209,45 +230,25 @@ I am a highly driven by Artificial intelligence and aspiring AI Engineer with a 
 
 
 ---
-
----
-
 ## 🖥️ Current Focus
 
-<div align="left">
+```php
+# 🔴 🟡 🟢  sharma@macbook: ~/current_focus
 
-<table width="100%">
-<tr>
-<td>
+\$system_status = "ACTIVE_INTEGRATION";
+\$profile       = "Divyanshu Sharma";
+\$status        = "Compiling Advanced Cognitive Pipelines";
 
-```yaml
-# SYSTEM STATUS: ACTIVE INTEGRATION
-profile: "Divyanshu Sharma"
-status: "Compiling Advanced Cognitive Pipelines"
-────────────────────────────────────────────────────────────
-learning:  
-  - "Advanced Deep Learning Architectures"
-  - "LLM Fine-Tuning & Quantization Alignment"
-
-building:  
-  - "High-Throughput Autonomous AI Agentic Frameworks"
-  - "Distributed Execution Topologies & Graph RAG"
-
-exploring: 
-  - "Quantum Computing Algorithms"
-  - "Neuromorphic Hardware Interfacing Architecture"
-
-openTo:    
-  - "High-Scale Systems Consulting Roles"
-  - "Enterprise AI Stack Development Research"
-────────────────────────────────────────────────────────────
-[⚡ SYSTEM]: Keep pushing the boundaries of intelligence...
+\$learning  = ["Advanced Deep Learning Architectures", "LLM Fine-Tuning"];
+\$building  = ["High-Throughput Autonomous AI Agentic Frameworks", "Graph RAG"];
+\$exploring = ["Quantum Computing Algorithms", "Neuromorphic Hardware"];
+\$open_to   = ["High-Scale Systems Consulting", "Enterprise AI Research"];
 ```
 
-</td>
-</tr>
-</table>
 
-</div>
+
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Knowing%20your%20own%20darkness%20is%20the%20best%20method%20for%20dealing%20with%20the%20darknesses%20of%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
 
 ---
