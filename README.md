@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=AI+Engineer+In+The+Making;Data+Scientist;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=AI+Engineer;Data+Scientist;RAG+Developer;Natural+Language+Processing;Computer+Vision" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## ⚡ About Me
 
-I am a highly driven Software Engineer and aspiring AI Engineer with a profound dedication to building production-grade intelligence systems and scalable full-stack applications. Equipped with a strong product engineering mindset, I bridge the gap between complex algorithmic data science models and robust software architecture. 
+I am a highly driven by Artificial intelligence and aspiring AI Engineer with a profound dedication to building production-grade intelligence systems and scalable AI applications. Equipped with a strong product engineering mindset, I bridge the gap between complex algorithmic data science models and robust software architecture. 
 
 * 🔭 **Core Expertise:** Deep Learning architectures, Natural Language Processing (NLP), Generative AI orchestrations, and full-stack software development pipelines.
 * 🛠️ **System Mindset:** Designing high-performance backends and optimizing computational pipelines directly accessible via containerized runtime topologies.
@@ -144,21 +144,19 @@ I am a highly driven Software Engineer and aspiring AI Engineer with a profound 
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
-### AWS
-* <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-4A148C?style=flat-square&logo=amazon-aws" />
-* <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20Specialty-6A1B9A?style=flat-square&logo=amazon-aws" />
+#### Deloitte
+* <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-4A148C?style=flat-square&logo=deloitte" />
 
-### Oracle
-* <img src="https://img.shields.io/badge/Oracle-Certified%20Associate%20Java%20SE-7B2CBF?style=flat-square&logo=oracle" />
+#### J.P. Morgan
+* <img src="https://img.shields.io/badge/J.P.%20Morgan-Software%20Engineering%20Job%20Simulation-6A1B9A?style=flat-square&logo=jpmorgan" />
 
-### NPTEL
-* <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20And%20Algorithms-9D4EDD?style=flat-square" />
-* <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20Specialization-4A148C?style=flat-square" />
+#### TensorFlow
+* <img src="https://img.shields.io/badge/TensorFlow-TensorFlow%20Developer%20Certificate-7B2CBF?style=flat-square&logo=tensorflow" />
 
-### Cisco
-* <img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20and%20Switching-6A1B9A?style=flat-square&logo=cisco" />
+#### Red Bull
+* <img src="https://img.shields.io/badge/Red%20Bull-Off%20Premise%20Sales%20Job%20Simulation-9D4EDD?style=flat-square&logo=redbull" />
 
 ---
 
@@ -211,10 +209,44 @@ I am a highly driven Software Engineer and aspiring AI Engineer with a profound 
 
 ---
 
-## 🎯 Current Focus
+---
+
+## 🖥️ Current Focus
+
+<div align="left">
+
+<table width="100%">
+<tr>
+<td>
 
 ```yaml
-learning: ["Advanced Deep Learning Architectures", "Large Language Model Fine-Tuning"]
-building: ["High-Throughput Autonomous AI Agentic Frameworks", "Distributed Execution Topologies"]
-exploring: ["Quantum Computing Algorithms", "Neuromorphic Hardware Interfacing Architecture"]
-openTo: ["High-Scale Systems Consulting", "Enterprise AI Stack Development Research Roles"]
+# SYSTEM STATUS: ACTIVE INTEGRATION
+profile: "Divyanshu Sharma"
+status: "Compiling Advanced Cognitive Pipelines"
+────────────────────────────────────────────────────────────
+learning:  
+  - "Advanced Deep Learning Architectures"
+  - "LLM Fine-Tuning & Quantization Alignment"
+
+building:  
+  - "High-Throughput Autonomous AI Agentic Frameworks"
+  - "Distributed Execution Topologies & Graph RAG"
+
+exploring: 
+  - "Quantum Computing Algorithms"
+  - "Neuromorphic Hardware Interfacing Architecture"
+
+openTo:    
+  - "High-Scale Systems Consulting Roles"
+  - "Enterprise AI Stack Development Research"
+────────────────────────────────────────────────────────────
+[⚡ SYSTEM]: Keep pushing the boundaries of intelligence...
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
