@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20Computer%20Science-4A148C?style=flat-square&logo=academia" />
+ <img src="https://img.shields.io/badge/Degree-B.Tech%20Artificial%20Intelligence%20%26%20Machine%20Learning-4A148C?style=flat-square&logo=academia" />
   <img src="https://img.shields.io/badge/Location-Rajasthan%2C%20India-6A1B9A?style=flat-square&logo=googlemaps" />
   <a href="mailto:divyanshusharma20062515@gmail.com"><img src="https://img.shields.io/badge/Email-divyanshusharma20062515%40gmail.com-4A148C?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -118,19 +118,20 @@ I am a highly driven by Artificial intelligence and aspiring AI Engineer with a 
 
 ## 💼 Experience
 
-### AI Engineering Fellow @ Enterprise Systems Lab
-**June 2025 — Present**
-* Architected end-to-end telemetry models reducing operational algorithmic computation cost by 22%.
-* Spearheaded transition of un-containerized Python applications into dynamic, managed Docker clusters orchestrated via Jenkins CI/CD.
-* Collaborated closely with product architecture leads to expose isolated machine learning models via highly reliable FastAPI contracts.
-`Python` `FastAPI` `Docker` `Jenkins` `PyTorch` `PostgreSQL`
+### Gemini Student Ambassador @ Google
+**March 2026 — Present**
+* Appointed as an campus advocate to drive next-generation Artificial Intelligence integration and architectural adoption.
+* Designed and executed targeted technical workshops, live-system demonstrations, and dedicated engineering development sessions.
+* Guided engineering student peers in maximizing algorithmic output, automated code synthesis, and structured academic workflows leveraging Gemini architectures.
+* Cultivated and scaled a campus-wide collaborative community focused on applied machine learning and product deployment.
+`Artificial Intelligence` `Machine Learning` `Google Gemini` `AI Strategy`
 
-### Core Software Engineer @ Tech Solutions Corp
-**August 2024 — June 2025**
-* Re-engineered core high-traffic data microservices in Node.js, reducing query fetch latencies over complex MSSQL and MongoDB stores.
-* Deployed responsive modular frontends ensuring continuous parity with structural user interface specifications.
-* Authored system automated scripts in Bash optimizing routine pipeline continuous delivery activities.
-`Node.js` `MongoDB` `JavaScript` `Bash` `Bootstrap` `Linux`
+### AI Engineer Intern @ Microsoft
+**November 2025 — May 2026**
+* Contributed to production-grade distributed architectures within the Microsoft India R&D hub to optimize multi-tiered intelligence networks.
+* Designed, structured, and trained large-scale deep neural modeling frameworks to resolve non-trivial predictive system bottlenecks.
+* Orchestrated resilient, end-to-end machine learning execution pipelines from raw processing up to high-availability cluster serving runtimes.
+`Python` `Machine Learning` `Deep Learning` `Model Deployment` `System Optimization`
 
 ---
 
