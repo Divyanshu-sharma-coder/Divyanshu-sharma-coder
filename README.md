@@ -232,19 +232,15 @@ I am a highly driven by Artificial intelligence and aspiring AI Engineer with a 
 ---
 ## 🖥️ Current Focus
 
-```php
-# 🔴 🟡 🟢  sharma@macbook: ~/current_focus
+<p align="centre">
+<img src="./macbook_terminal.png" alt="terminal" width="100%">
+</p>
 
-\$system_status = "ACTIVE_INTEGRATION";
-\$profile       = "Divyanshu Sharma";
-\$status        = "Compiling Advanced Cognitive Pipelines";
+---
 
-\$learning  = ["Advanced Deep Learning Architectures", "LLM Fine-Tuning"];
-\$building  = ["High-Throughput Autonomous AI Agentic Frameworks", "Graph RAG"];
-\$exploring = ["Quantum Computing Algorithms", "Neuromorphic Hardware"];
-\$open_to   = ["High-Scale Systems Consulting", "Enterprise AI Research"];
-```
-
+<p align="center">
+$$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space 💭}$$
+</p>
 
 
 <p align="center">
