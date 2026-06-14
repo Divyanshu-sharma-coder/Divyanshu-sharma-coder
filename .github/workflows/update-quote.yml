@@ -3,7 +3,10 @@ name: Update Quote
 on:
   workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '30 6 * * *'  # Schedule daily at 12:00 PM IST (6:30 AM UTC)
+    - cron: '30 6 * * *'  # Schedule daily at 12:00 PM IST
+
+permissions:
+  contents: write  # Crucial for preventing authentication push crashes
 
 jobs:
   update-readme:
@@ -11,15 +14,17 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # FIX 1: Upgraded to v4 to eliminate Node deprecation errors
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'       # FIX 2: Upgraded from 14 to modern, supported LTS Node version
+          node-version: '20'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          if [ ! -f package.json ]; then echo '{"dependencies":{}}' > package.json; fi
+          npm install
 
       - name: Update Quote
         run: node update-quote.js
@@ -28,10 +33,15 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # FIX 3: Configured with your exact username and automation metadata safely
           git config --global user.name "Divyanshu-sharma-coder"
           git config --global user.email "divyanshusharma20062515@gmail.com"
+          
           git add README.md
-          # Guard check: Only commit if files actually changed, preventing crash exit codes
-          git diff-index --quiet HEAD || git commit -m "Update README with daily quote"
-          git push
+          
+          # Clean structural check to handle both changes or empty updates smoothly without breaking
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update README with daily quote"
+            git push origin HEAD:main
+          else
+            echo "No changes found. Content matches exactly. Skipping commit."
+          fi
