@@ -1,9 +1,9 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '30 6 * * *'  # Schedule daily at 12:01 AM Indian Time
+    - cron: '30 6 * * *'  # Schedule daily at 12:00 PM IST (6:30 AM UTC)
 
 jobs:
   update-readme:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4  # FIX 1: Upgraded to v4 to eliminate Node deprecation errors
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: '20'       # FIX 2: Upgraded from 14 to modern, supported LTS Node version
 
       - name: Install dependencies
         run: npm install
@@ -28,6 +28,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          # FIX 3: Configured with your exact username and automation metadata safely
+          git config --global user.name "Divyanshu-sharma-coder"
+          git config --global user.email "divyanshusharma20062515@gmail.com"
           git add README.md
-          git -c user.name='Kiran1689' -c user.email='kirannaragund197@gmail.com' commit -m "Update README with daily quote" -a
+          # Guard check: Only commit if files actually changed, preventing crash exit codes
+          git diff-index --quiet HEAD || git commit -m "Update README with daily quote"
           git push
