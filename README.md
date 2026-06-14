@@ -19,6 +19,7 @@
 </p>
 
 <p align="center">
+  <!-- <a href="https://divyanshu-sharma-coder.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Explore-4A148C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://kaggle.com/divyanshu_coder" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-9D4EDD?style=for-the-badge&logo=kaggle" /></a>
   <a href="https://instagram.com/me_honeyy.yy" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-6A1B9A?style=for-the-badge&logo=instagram" /></a>
@@ -30,8 +31,11 @@
   <img src="https://img.shields.io/github/stars/divyanshu-sharma-coder?color=4A148C&style=flat-square&label=STARS" />
 </p>
 
----
+<p align = "center">
+<a href="https://divyanshu-sharma-coder.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/⚡%20LIVE%20SHOWCASE%20-%20PORTFOLIO%20🚀-000000?style=for-the-badge&logo=prospectus&logoColor=9D4EDD" width="680" /></a>
+</p>
 
+---
 ## ⚡ About Me
 
 I am a highly driven by Artificial intelligence and aspiring AI Engineer with a profound dedication to building production-grade intelligence systems and scalable AI applications. Equipped with a strong product engineering mindset, I bridge the gap between complex algorithmic data science models and robust software architecture. 
@@ -76,7 +80,7 @@ I am a highly driven by Artificial intelligence and aspiring AI Engineer with a 
 
   </td>
     <!-- RIGHT SIDE: YOUR ANIMATION GIF -->
-    <td width="40%" align="right" valign="middle" style="border: none; padding: 0px;">
+  <td width="40%" align="right" valign="middle" style="border: none; padding: 0px;">
       <img src="./Skills_Animation_Dark.gif" alt="skills animation" width="100%" height="100%"/>
     </td>
   </tr>
