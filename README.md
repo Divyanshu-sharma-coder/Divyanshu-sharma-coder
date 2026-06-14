@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=It's%20what%20you%20do%20in%20the%20present%20that%20will%20redeem%20the%20past%20and%20thereby%20change%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
-</p>
+</p> -->
 <!--Banner-->
 <p align="center">
   <img src="./banner.gif" alt="Divyanshu Banner Image" width="60%" />
@@ -251,7 +251,7 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=Knowing%20your%20own%20darkness%20is%20the%20best%20method%20for%20dealing%20with%20the%20darknesses%20of%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=It's%20what%20you%20do%20in%20the%20present%20that%20will%20redeem%20the%20past%20and%20thereby%20change%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 
 ---
