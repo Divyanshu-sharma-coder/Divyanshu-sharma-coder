@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=What%20keeps%20life%20fascinating%20is%20the%20constant%20creativity%20of%20the%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+</p>
+<p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=The%20score%20never%20interested%20me%2C%20only%20the%20game.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- <p align="center">
