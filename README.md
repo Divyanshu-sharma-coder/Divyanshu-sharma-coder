@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Don't%20let%20them%20drag%20you%20down%20by%20rumors.%20Just%20go%20with%20what%20you%20believe%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+</p>
+<p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Believe%20in%20yourself.%20You%20are%20braver%20than%20you%20think%2C%20more%20talented%20than%20you%20know%2C%20and%20capable%20of%20more%20than%20you%20imagine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- <p align="center">
