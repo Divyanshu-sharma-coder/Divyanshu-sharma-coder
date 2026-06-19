@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=There%20will%20always%20be%20suffering.%20But%20we%20must%20not%20suffer%20over%20the%20suffering.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+</p>
+<p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe%2C%20think%20in%20terms%20of%20energy%2C%20frequency%20and%20vibration.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- <p align="center">
