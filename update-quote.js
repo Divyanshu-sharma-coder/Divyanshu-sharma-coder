@@ -3,7 +3,8 @@ const path = require('path');
 
 async function updateQuote() {
   try {
-    const quotesPath = path.join(__dirname, 'quotes.json');
+    // process.cwd() ensures it looks at the root of your repository
+    const quotesPath = path.join(process.cwd(), 'quotes.json');
     if (!fs.existsSync(quotesPath)) {
       throw new Error('quotes.json file is missing in the repository root.');
     }
@@ -19,28 +20,26 @@ async function updateQuote() {
     const quoteText = item.quote || item.text || "Simplicity is the ultimate sophistication.";
     const authorText = item.author || "Unknown";
 
-    // The design block that will go inside the anchors
     const cardDesign = `\n<p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(authorText)}&quote=${encodeURIComponent(quoteText)}&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>\n`;
 
-    const readmePath = path.join(__dirname, 'README.md');
+    // Force it to target the main root README.md
+    const readmePath = path.join(process.cwd(), 'README.md');
     if (!fs.existsSync(readmePath)) {
-      throw new Error('README.md file not found.');
+      throw new Error('README.md file not found at the repository root.');
     }
 
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
-    // Regex that targets exactly what is between your comments
-    const regex = /()[\s\S]*?()/;
+    // Strict regex targeting your anchor tags
+    const regex = /(<!-- QUOTE_START -->)[\s\S]*?(<!-- QUOTE_END -->)/;
 
     if (regex.test(readmeContent)) {
-      // Swaps old content out, puts new content in
       readmeContent = readmeContent.replace(regex, `$1${cardDesign}$2`);
       console.log('Successfully updated the daily quote at the bottom.');
     } else {
-      // If you forgot to add the tags, this appends them safely to the bottom
-      readmeContent += `\n\n${cardDesign}\n`;
+      readmeContent += `\n\n<!-- QUOTE_START -->${cardDesign}<!-- QUOTE_END -->\n`;
       console.log('Anchors not found. Appended new anchors and quote to the bottom.');
     }
 
