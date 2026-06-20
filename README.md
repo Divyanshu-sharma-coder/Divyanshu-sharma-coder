@@ -249,4 +249,7 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 </p>
 
 <!-- QUOTE_START -->
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Mistake%20is%20a%20mistake%20only%20if%20you%20make%20it%20twice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+</p>
 <!-- QUOTE_END -->
