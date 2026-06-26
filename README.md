@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=You%20are%20the%20only%20real%20obstacle%20in%20your%20path%20to%20a%20fulfilling%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=G.I.%20Gurdjieff&quote=There%20is%20a%20cosmic%20law%20which%20says%20that%20every%20satisfaction%20must%20be%20paid%20for%20with%20a%20dissatisfaction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
