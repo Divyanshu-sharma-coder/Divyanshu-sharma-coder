@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=Courage%20is%20the%20willingness%20to%20engage%20in%20a%20risk-taking%20behavior%20regardless%20of%20whether%20the%20consequences%20are%20unknown%20or%20possibly%20adverse.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=TEAMWORK%3A%20the%20fuel%20that%20allows%20common%20people%20attain%20uncommon%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
