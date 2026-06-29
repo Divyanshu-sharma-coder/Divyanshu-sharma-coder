@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=TEAMWORK%3A%20the%20fuel%20that%20allows%20common%20people%20attain%20uncommon%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Genius%2C%20in%20truth%2C%20means%20little%20more%20than%20the%20faculty%20of%20perceiving%20in%20an%20unhabitual%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
