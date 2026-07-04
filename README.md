@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=When%20you%20repeat%20a%20mistake%2C%20it%20is%20not%20a%20mistake%20anymore%3A%20it%20is%20a%20decision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Stop%20wasting%20time%20defending%20your%20problems%20and%20work%20on%20addressing%20them%20instead.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
