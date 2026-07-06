@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Never%20give%20up%20on%20a%20dream%20just%20because%20of%20the%20time%20it%20will%20take%20to%20accomplish%20it.%20The%20time%20will%20pass%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=Men%20are%20equal%3B%20it%20is%20not%20birth%20but%20virtue%20that%20makes%20the%20difference.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
