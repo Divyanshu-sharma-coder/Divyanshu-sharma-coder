@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Always%20dream%20and%20shoot%20higher%20than%20you%20know%20you%20can%20do.%20Do%20not%20bother%20just%20to%20be%20better%20than%20your%20contemporaries%20or%20predecessors.%20Try%20to%20be%20better%20than%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=The%20way%20to%20love%20anything%20is%20to%20realize%20that%20it%20may%20be%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
