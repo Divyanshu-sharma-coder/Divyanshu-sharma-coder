@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=The%20way%20to%20love%20anything%20is%20to%20realize%20that%20it%20may%20be%20lost.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Opportunity%20often%20comes%20disguised%20in%20the%20form%20of%20misfortune%20or%20temporary%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
