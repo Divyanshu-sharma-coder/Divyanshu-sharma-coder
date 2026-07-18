@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Among%20the%20things%20you%20can%20give%20and%20still%20keep%20are%20your%20word%2C%20a%20smile%2C%20and%20a%20grateful%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Whatever%20you%20do%20in%20life%2C%20surround%20yourself%20with%20smart%20people%20who'll%20argue%20with%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
