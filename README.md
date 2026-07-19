@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Whatever%20you%20do%20in%20life%2C%20surround%20yourself%20with%20smart%20people%20who'll%20argue%20with%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=Nothing%20that%20results%20in%20human%20progress%20is%20achieved%20with%20unanimous%20consent.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
