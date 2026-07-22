@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Failure%20is%20a%20great%20teacher.%20If%20you're%20open%20to%20it%20every%20mistake%20has%20a%20lesson%20to%20offer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Death%20is%20as%20sure%20for%20that%20which%20is%20born%2C%20as%20birth%20is%20for%20that%20which%20is%20dead.%20Therefore%20grieve%20not%20for%20what%20is%20inevitable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
