@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Death%20is%20as%20sure%20for%20that%20which%20is%20born%2C%20as%20birth%20is%20for%20that%20which%20is%20dead.%20Therefore%20grieve%20not%20for%20what%20is%20inevitable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=If%20you%20love%20life%2C%20don't%20waste%20time%2C%20for%20time%20is%20what%20life%20is%20made%20up%20of.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
