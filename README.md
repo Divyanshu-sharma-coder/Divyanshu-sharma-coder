@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=When%20at%20last%20you%20are%20come%20to%20the%20ocean%20of%20happiness%2C%20do%20not%20go%20back%20thirsty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20you%20are%20unable%20to%20find%20the%20truth%20right%20where%20you%20are%2C%20where%20else%20do%20you%20expect%20to%20find%20it%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
