@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=A%20strong%20man%20overcomes%20an%20obstacle%2C%20a%20wise%20man%20goes%20the%20whole%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=It%20is%20not%20as%20important%20how%20we%20start%2C%20but%20how%20we%20finish.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
