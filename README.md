@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Persistence%20is%20very%20important.%20You%20should%20not%20give%20up%20unless%20you%20are%20forced%20to%20give%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Patience%20expands%20your%20options.%20If%20you%20insist%20on%20immediate%20gratification%2C%20your%20choices%20are%20severely%20limited.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
