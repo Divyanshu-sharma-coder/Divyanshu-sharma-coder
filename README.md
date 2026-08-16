@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=You%20have%20within%20you%20right%20now%2C%20everything%20you%20need%20to%20deal%20with%20whatever%20the%20world%20can%20throw%20at%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=If%20you%20cannot%20understand%20something%2C%20then%20you%20have%20understood%20it%20incorrectly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
