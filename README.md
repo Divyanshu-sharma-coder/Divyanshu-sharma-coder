@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=If%20you%20cannot%20understand%20something%2C%20then%20you%20have%20understood%20it%20incorrectly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=It%20is%20indeed%20a%20radical%20act%20of%20love%20just%20to%20sit%20down%20and%20be%20quiet%20for%20a%20time%20by%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
