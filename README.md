@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Life%20is%20a%20question%20and%20how%20we%20live%20it%20is%20our%20answer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Spurgeon&quote=A%20good%20character%20is%20the%20best%20tombstone.%20Carve%20your%20name%20on%20hearts%2C%20not%20on%20marble.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
