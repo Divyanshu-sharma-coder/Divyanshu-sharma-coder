@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It%20is%20truth%20that%20liberates%2C%20not%20your%20effort%20to%20be%20free.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=It's%20easy%20to%20wish%20for%20health%20when%20you're%20sick.%20%20When%20you're%20doing%20well%2C%20you%20need%20just%20as%20much%20vigilance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
