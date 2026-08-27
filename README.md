@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=People%20who%20are%20unable%20to%20motivate%20themselves%20must%20be%20content%20with%20mediocrity%2C%20no%20matter%20how%20impressive%20their%20other%20talents.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Nothing%20is%20impossible.%20The%20word%20itself%20says%20'I'm%20possible!'&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
