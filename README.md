@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Remember%2C%20today%20is%20the%20tomorrow%20you%20worried%20about%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=A%20clever%20person%20turns%20great%20troubles%20into%20little%20ones%2C%20and%20little%20ones%20into%20none%20at%20all.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
