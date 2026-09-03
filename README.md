@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=The%20scariest%20monsters%20are%20the%20ones%20that%20lurk%20within%20our%20souls.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=If%20you%20do%20not%20tell%20the%20truth%20about%20yourself%20you%20cannot%20tell%20it%20about%20other%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
