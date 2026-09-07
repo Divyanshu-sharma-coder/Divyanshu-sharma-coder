@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Be%20kind%2C%20for%20everyone%20you%20meet%20is%20fighting%20a%20harder%20battle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=I%20will%20not%20walk%20backward%20in%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
