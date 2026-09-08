@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=I%20will%20not%20walk%20backward%20in%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Never%20be%20afraid%20to%20raise%20your%20voice%20for%20honesty%20and%20truth%20and%20compassion%20against%20injustice%20and%20lying%20and%20greed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
