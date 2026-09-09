@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Never%20be%20afraid%20to%20raise%20your%20voice%20for%20honesty%20and%20truth%20and%20compassion%20against%20injustice%20and%20lying%20and%20greed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=A%20hero%20is%20an%20ordinary%20person%20doing%20things%20in%20an%20extra%20ordinary%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
