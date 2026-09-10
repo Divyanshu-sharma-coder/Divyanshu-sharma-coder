@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=A%20hero%20is%20an%20ordinary%20person%20doing%20things%20in%20an%20extra%20ordinary%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=The%20present%20moment%20is%20filled%20with%20joy%20and%20happiness.%20If%20you%20are%20attentive%2C%20you%20will%20see%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
