@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=The%20more%20often%20a%20stupidity%20is%20repeated%2C%20the%20more%20it%20gets%20the%20appearance%20of%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Focus%20on%20how%20far%20you%20have%20come%20in%20life%20rather%20than%20looking%20at%20the%20accomplishments%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
