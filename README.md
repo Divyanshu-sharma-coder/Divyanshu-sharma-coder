@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=Any%20fool%20can%20paint%20a%20picture%2C%20but%20it%20takes%20a%20wise%20man%20to%20be%20able%20to%20sell%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=No%20tree%2C%20it%20is%20said%2C%20can%20grow%20to%20heaven%20unless%20its%20roots%20reach%20down%20to%20hell.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
