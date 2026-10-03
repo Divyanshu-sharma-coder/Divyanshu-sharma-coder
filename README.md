@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20R.%20Davis&quote=To%20lose%20your%20temper%20is%20only%20useful%20once%20a%20year.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Strategy%20without%20tactics%20is%20the%20slowest%20route%20to%20victory.%20Tactics%20without%20strategy%20is%20the%20noise%20before%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
