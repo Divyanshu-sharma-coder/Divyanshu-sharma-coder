@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Strategy%20without%20tactics%20is%20the%20slowest%20route%20to%20victory.%20Tactics%20without%20strategy%20is%20the%20noise%20before%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Work%20as%20though%20you%20would%20live%20forever%2C%20and%20live%20as%20though%20you%20would%20die%20today.%20Go%20another%20mile.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
