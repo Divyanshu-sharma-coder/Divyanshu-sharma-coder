@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Work%20as%20though%20you%20would%20live%20forever%2C%20and%20live%20as%20though%20you%20would%20die%20today.%20Go%20another%20mile.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Don't%20bother%20people%20for%20help%20without%20first%20trying%20to%20solve%20the%20problem%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
