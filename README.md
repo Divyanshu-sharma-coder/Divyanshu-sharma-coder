@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Don't%20bother%20people%20for%20help%20without%20first%20trying%20to%20solve%20the%20problem%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20Again.%20Fail%20again.%20Fail%20better.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
