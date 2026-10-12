@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Don't%20change%20your%20mind%20just%20because%20people%20are%20offended%3B%20change%20your%20mind%20if%20you're%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Be%20brave%20enough%20to%20suck%20at%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
