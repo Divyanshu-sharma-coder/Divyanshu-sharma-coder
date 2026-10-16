@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=The%20salvation%20of%20the%20world%20lies%20in%20the%20human%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Everybody%20by%20your%20side%20ain't%20on%20your%20side.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
