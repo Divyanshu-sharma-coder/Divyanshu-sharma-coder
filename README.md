@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Wherever%20there%20is%20danger%2C%20there%20lurks%20opportunity%3B%20wherever%20there%20is%20opportunity%2C%20there%20lurks%20danger.%20The%20two%20are%20inseparable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=Whatever%20you%20are%2C%20be%20a%20good%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
