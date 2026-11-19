@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Success%20comes%20to%20those%20who%20become%20success%20conscious.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=In%20a%20world%20of%20change%2C%20the%20learners%20shall%20inherit%20the%20earth%2C%20while%20the%20learned%20shall%20find%20themselves%20perfectly%20suited%20for%20a%20world%20that%20no%20longer%20exists.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
