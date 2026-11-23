@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=There%20is%20no%20truth.%20There%20is%20only%20perception.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Each%20of%20us%20is%20a%20unique%20strand%20in%20the%20intricate%20web%20of%20life%20and%20here%20to%20make%20a%20contribution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
