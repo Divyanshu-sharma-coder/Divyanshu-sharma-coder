@@ -250,6 +250,6 @@ $$\color{#FFA500}\Huge\mathcal{Thought \space of \space the \space Day \space ðŸ
 
 <!-- QUOTE_START -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Each%20of%20us%20is%20a%20unique%20strand%20in%20the%20intricate%20web%20of%20life%20and%20here%20to%20make%20a%20contribution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Laurence%20J.%20Peter&quote=If%20you%20don't%20know%20where%20you're%20going%2C%20you%20will%20probably%20end%20up%20somewhere%20else.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Quote Card">
 </p>
 <!-- QUOTE_END -->
